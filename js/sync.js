@@ -9,7 +9,7 @@
 
 // ── 配置 ──────────────────────────────────────────────
 // 部署时改成你自己的 Worker 域名
-const API_BASE = 'https://note2.kehuang.eu.org/api/notes';
+const API_BASE = 'https://note3.kehuang.eu.org/api/notes';
 
 // ── 鉴权 ──────────────────────────────────────────────
 function getAuthHeaders() {
